@@ -106,13 +106,3 @@ connect_five/
 * Heuristics easily adjustable via `value_model_X` and `value_model_O`.
 
 ---
-
-## Roadmap / Ideas
-
-- ♟️ Iterative‑deepening search with time constraints  
-- 🧠 Self‑play reinforcement learning to optimize pattern weights  
-- 🌐 Online multiplayer support and leaderboards  
-- 📲 Mobile‑friendly UI with frameworks like Kivy or BeeWare  
-
-Pull requests welcome!
-

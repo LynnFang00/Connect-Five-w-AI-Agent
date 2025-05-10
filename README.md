@@ -20,8 +20,8 @@ A modern, pygame‑powered take on **Gomoku / Five‑in‑a‑Row** with an opti
 | ---------------------------------------------------------------------------------------------
 |![image](https://github.com/user-attachments/assets/9a996f0a-da44-4d2f-8925-73b4b32a6fef)
 | Mode dialog                                 |
-| -
- | ![image](https://github.com/user-attachments/assets/ad2029d6-2831-448a-9904-ed7474306f6f)|
+| ---------------------------------------------------------------------------------------------
+| ![image](https://github.com/user-attachments/assets/ad2029d6-2831-448a-9904-ed7474306f6f)|
 
 ---
 
